@@ -1,12 +1,12 @@
-# Twitter Bot
+# Tsuita_tenki
 นี่เป็นสคริปต์ Python ที่โพสต์รายงานสภาพอากาศและข้อมูล PM 2.5 บน Twitter โดยใช้ OpenAI API 
-เพื่อสร้างข้อความรายงานสภาพอากาศและเว็บไซต์ AQICN เพื่อรับข้อมูล PM 2.5 นอกจากนี้ยังใช้ Google Translate API เพื่อแปลข้อความเป็นภาษาไทย
+เพื่อสร้างข้อความรายงานสภาพอากาศและเว็บไซต์ AQICN เพื่อรับข้อมูล PM 2.5
 
 ## เริ่มต้น
-** คลอนรีพอสิทั้งหมดของ repository นี้
-** ติดตั้งแพ็กเกจที่จำเป็นโดยรัน pip install -r requirements.txt
-** ตั้งค่า API keys ของ Twitter และแทนที่ตัวแปร consumer_key consumer_secret access_token และ access_token_secret ในโค้ดด้วย keys ของคุณ
-** รันสคริปต์โดยรัน python main.py
+* clone repository นี้
+* ติดตั้งแพ็กเกจที่จำเป็นโดยรัน pip install -r requirements.txt
+* ตั้งค่า API keys ของ Twitter และแทนที่ตัวแปร consumer_key consumer_secret access_token และ access_token_secret ในโค้ดด้วย keys ของคุณ
+* รันสคริปต์โดยรัน python main.py
 
 ## วิธีใช้
 สคริปต์จะทำงานครั้งเดียวต่อวันเวลา 7:40 นาฬิกาตามเวลากรุงเทพฯ 
