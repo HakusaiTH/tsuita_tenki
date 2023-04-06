@@ -1,3 +1,5 @@
+![tsuta_tenki](https://user-images.githubusercontent.com/104154862/230295402-33b5df59-c3e5-4f28-b104-5d47b6cbb565.jpg)
+
 # Tsuita_tenki
 นี่เป็นสคริปต์ Python ที่โพสต์รายงานสภาพอากาศและข้อมูล PM 2.5 บน Twitter โดยใช้ OpenAI API 
 เพื่อสร้างข้อความรายงานสภาพอากาศและเว็บไซต์ AQICN เพื่อรับข้อมูล PM 2.5
