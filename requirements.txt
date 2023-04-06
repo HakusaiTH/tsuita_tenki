@@ -1,0 +1,7 @@
+tweepy
+requests
+beautifulsoup4
+openai
+googletrans
+pytz
+schedule
